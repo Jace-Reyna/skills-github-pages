@@ -1,5 +1,5 @@
 ---
-title: Mission: Moon Capture
+title: Mission Moon Capture
 ---
 
 # We Will capture the moon
